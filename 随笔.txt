@@ -1,0 +1,19 @@
+﻿select * from AShareSWNIndustriesClass
+
+
+
+信用风险模块异常监控
+
+我的维护申请监控
+
+我的待办监控
+
+数据维护监控
+
+信评内评个券 合作管理监控
+
+信评内评个券 主动管理监控
+
+https://web.innodealing.com/dashboard/
+
+192.168.124.141 socketio.innodealing.com
